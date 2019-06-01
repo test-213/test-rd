@@ -25,3 +25,12 @@ Aplikacja pozwalająca zarejestrowanym użytkownikom dodawać, wyświetlać i br
 
 ## Zbiór linków do projektu
 
+- [Strona aplikacji](https://pwa-test-10466.firebaseapp.com/)
+
+- [Prototyp](https://xd.adobe.com/view/6760066f-6fde-4236-409b-0788d1490c25-1151/)
+
+- [Zarządzanie projektem](https://github.com/sabeq96/Eventerio/projects/1)
+
+- [Repozytorium](https://github.com/sabeq96/Eventerio)
+
+![Show Up 5](showup/5_eventerio.jpg)
