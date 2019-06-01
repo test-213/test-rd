@@ -21,7 +21,7 @@ Aplikacja pozwalająca zarejestrowanym użytkownikom dodawać, wyświetlać i br
 
 **Główną cechą** serwisu jest łatwość obłsugi dzięki przejrzystemu interfejsowi oraz minimalnych formalnościach potrzebnych do wykonania celu.
 
-![Show Up 4](showup/3_eventerio.jpg)
+![Show Up 4](showup/4_eventerio.jpg)
 
 ## Zbiór linków do projektu
 
